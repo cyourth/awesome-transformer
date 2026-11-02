@@ -541,7 +541,7 @@ Contributions are welcome! Please open a pull request that:
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![License: MIT](https://licensebuttons.net/l/mit/88x31.png)](https://opensource.org/licenses/MIT)
 
 To the extent possible under law, the contributors have waived all copyright and related rights to this list.
 
