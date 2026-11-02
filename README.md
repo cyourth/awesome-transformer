@@ -541,7 +541,7 @@ Contributions are welcome! Please open a pull request that:
 
 ## License
 
-[![License: MIT](https://licensebuttons.net/l/mit/88x31.png)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) MIT license with Copyright (c) 2026 Clinton Yourth
 
 To the extent possible under law, the contributors have waived all copyright and related rights to this list.
 
